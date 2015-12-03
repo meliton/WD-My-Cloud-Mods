@@ -9,7 +9,7 @@ esac ; echo    ##############
 
 # check for armv71 hardware (used x86 to test in vm)
 echo [2] Checking hardware type...
-case "$(uname -m 2>/dev/null | grep -c "x86" )" in
+case "$(uname -m 2>/dev/null | grep -c "armv71" )" in
    1) ;;
    *) echo [ Wrong hardware. Not armv71 ]; exit 1 ;;
 esac ; echo    ##############
@@ -37,11 +37,9 @@ esac ; echo     ################
 
 #  check for htop deb file
 echo [6] Checking htop install file...
-echo "$(ls -l ../Files/htop/ 2>/dev/null | grep "htop_*.deb" )"
-case "$(ls -l ../Files/htop/ 2>/dev/null | grep -c "htop_*.deb" )" in
+case "$(ls -l ../Files/htop/ 2>/dev/null | grep -c "htop_*" )" in
    1) ;; 
    *) echo [ htop installation file not found! ]; exit 1 ;;
 esac ; echo     ##################
 
-echo Success! Htop id installed
-
+echo Success! Htop is now installed.
