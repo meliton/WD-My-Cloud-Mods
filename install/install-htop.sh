@@ -41,5 +41,8 @@ case "$(ls -l ../Files/htop/ 2>/dev/null | grep -c "htop_1.0.*" )" in
    1) ;; 
    *) echo [ htop installation file not found! ]; exit 1 ;;
 esac ; echo     ##################
+
+#  installing htop
+echo [7] Htop found! Now installing htop ; echo 
 dpkg -i ../Files/htop/htop_1.0.*
 echo Success! Htop is now installed.
