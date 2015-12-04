@@ -19,4 +19,8 @@ To install using the installers, you'll need to download the repo as a zip file 
 
 **theInstallFile** is the name of the program script you want to install
 
+####TO DO:
+
+Use `curl -L` with custom installer to install specific programs...
+
  
