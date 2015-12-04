@@ -21,6 +21,6 @@ To install using the installers, you'll need to download the repo as a zip file 
 
 ####TO DO:
 
-Use `curl -L` with custom installer to install specific programs...
+Use `curl -L http://meliton.github.io/testinstall.sh | bash` with custom installer to install specific programs...
 
  
