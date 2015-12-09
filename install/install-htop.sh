@@ -44,5 +44,5 @@ esac ; echo     ##################
 
 #  installing htop
 echo [7] Htop found! Now installing htop ; echo 
-dpkg -i ../Files/htop/htop_1.0.*
+dpkg -i ../Files/htop/htop_1*
 echo Success! Htop is now installed.
