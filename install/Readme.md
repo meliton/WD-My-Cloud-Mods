@@ -1,6 +1,6 @@
 ## Using the Installers
 
-Use `curl -L http://meliton.github.io/testinstall.sh | bash` with custom installer to install specific programs...
+Use `curl -L http://meliton.github.io/testinstall.sh | bash` to install specific programs...
 
 
 ### Deprecated
