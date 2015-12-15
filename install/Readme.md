@@ -11,7 +11,7 @@ This will simplify installations and updates.
 
 ### Visit the repo
 
-http://meliton.github.io
+[http://meliton.github.io](https://github.com/meliton/meliton.github.io/tree/master)
 
 
 
