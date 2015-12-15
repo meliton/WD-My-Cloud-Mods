@@ -12,8 +12,12 @@ Supported firmware is **Firmware Release 4.04.01-112 (10/21/2015)**
 
 This firmware is part of the dreaded [64K pages memory](../../wiki/64K-Pages-Memory) update that took place with the version 4.x firmware revision.
 
+### Installer Here
 
-**Check out the wiki for tutorials on how to mod your box.**
+[http://meliton.github.io](https://github.com/meliton/meliton.github.io/tree/master)
+
+
+####Check out the wiki for tutorials on how to mod your box.
 
 ### Added Mods 
 * git
