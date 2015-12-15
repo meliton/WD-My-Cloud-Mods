@@ -1,26 +1,18 @@
 ## Using the Installers
 
-To install using the installers, you'll need to download the repo as a zip file on the WD My Cloud.
-
-###Then...
-
-`unzip WD-My-Cloud-Mods.zip`
-
-`cd WD-My-Cloud-Mods\install`
-
-
-### Next
-
-`chmod 755 theInstallFile.sh\`
-
-### To Run the Installer
-
-`./theInstallFile.sh`
-
-**theInstallFile** is the name of the program script you want to install
-
-####TO DO:
-
 Use `curl -L http://meliton.github.io/testinstall.sh | bash` with custom installer to install specific programs...
+
+
+### Deprecated
+
+I switched over to a composite installer to handle all the apps instead of a single installers. 
+
+This will simplify installations and updates.
+
+### Visit the repo
+
+http://meliton.github.io
+
+
 
  
