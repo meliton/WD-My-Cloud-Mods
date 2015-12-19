@@ -23,15 +23,11 @@ This firmware is part of the dreaded [64K pages memory](../../wiki/64K-Pages-Mem
 * git
 * htop
 * less
-* libcurl3
-* libcurl4
-* liberror-perl
 * libminiupnpc
 * libnatpmp
 * patch
 * python3-openssl
 * python-cheetah
-* python-dev
 * python-openssl
 * python-pip
 * python-support
