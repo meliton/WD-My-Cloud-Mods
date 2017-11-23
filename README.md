@@ -24,7 +24,7 @@ This firmware is part of the dreaded [64K pages memory](../../wiki/64K-Pages-Mem
 ### Added Mods 
 * git
 * htop (latest)
-* less
+* less (latest)
 * libminiupnpc
 * libnatpmp
 * patch
