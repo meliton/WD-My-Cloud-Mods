@@ -34,7 +34,7 @@ This firmware is part of the dreaded [64K pages memory](../../wiki/64K-Pages-Mem
 * python-pip
 * python-support
 * transmission
-* unrar
+* unrar (latest)
  
 
 
