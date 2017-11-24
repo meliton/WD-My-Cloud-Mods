@@ -29,7 +29,7 @@ This firmware is part of the dreaded [64K pages memory](../../wiki/64K-Pages-Mem
 * libnatpmp
 * patch
 * python3-openssl (latest)
-* python-cheetah
+* python-cheetah (latest)
 * python-openssl (latest)
 * python-pip
 * python-support
