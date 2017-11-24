@@ -28,9 +28,9 @@ This firmware is part of the dreaded [64K pages memory](../../wiki/64K-Pages-Mem
 * libminiupnpc
 * libnatpmp
 * patch
-* python3-openssl
+* python3-openssl (latest)
 * python-cheetah
-* python-openssl
+* python-openssl (latest)
 * python-pip
 * python-support
 * transmission
