@@ -12,7 +12,7 @@ Supported models include:
 Supported firmware is **Firmware Release 04.05.00-315 (04/12/2017)** <br>
 Older files targeted **Firmware Release 04.04.01-112 (10/21/2015)**  <br><br>
 
-This firmware is part of the dreaded [64K pages memory](../../wiki/64K-Pages-Memory) update that took place with the version 4.x firmware revision.
+This firmware uses [64K pages memory](../../wiki/64K-Pages-Memory) so you can't `apt-get` updates without breaking the box.
 
 ### Installer Here
 
